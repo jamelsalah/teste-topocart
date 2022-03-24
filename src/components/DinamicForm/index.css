@@ -1,0 +1,15 @@
+.input {
+    height: 20px;
+    width: 200px;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.input--select {
+    height: 35px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
